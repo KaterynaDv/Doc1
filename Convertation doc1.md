@@ -1,6 +1,7 @@
 # <center> Setup Eclipse 
 1. Download Eclipse from [title](https://www.eclipse.org/downloads/)
-![alt text](/Users/katerynadvoiakovska/Desktop/Eclipse. Rep/Project1/1.jpeg)
+  
+![alt text](1.jpg)
 2. Open installer and follow to steps 
 <ul>
   <li>Unzip file</li>
